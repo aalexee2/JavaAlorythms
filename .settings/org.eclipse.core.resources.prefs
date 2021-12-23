@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/edu/alexander/dijkstra/Graph.java=UTF-8
+encoding//src/edu/alexander/dijkstra/Path.java=UTF-8
+encoding//src/edu/alexander/dijkstra/Solution.java=UTF-8
+encoding//src/edu/alexander/graph/depth/Graph.java=UTF-8
+encoding//src/edu/alexander/graph/model/Vertex.java=UTF-8
+encoding//src/edu/alexander/graph/width/Graph.java=UTF-8
+encoding//src/edu/alexander/greedy/Solution.java=UTF-8
+encoding//src/edu/alexander/search/Searcher.java=UTF-8
+encoding//src/edu/alexander/sorting/Sorter.java=UTF-8
